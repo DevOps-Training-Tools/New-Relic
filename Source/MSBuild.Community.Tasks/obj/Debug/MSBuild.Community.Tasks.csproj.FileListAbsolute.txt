@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\MSBuild.Community.Tasks.Targets
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\NUnitReport.xsl
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\MSBuild.Community.Tasks.xml
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\MSBuild.Community.Tasks.dll
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\MSBuild.Community.Tasks.pdb
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\DotNetZip.dll
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\FSharp.Compiler.CodeDom.dll
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\DotNetZip.xml
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\FSharp.Compiler.CodeDom.pdb
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\bin\Debug\FSharp.Compiler.CodeDom.xml
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\obj\Debug\MSBuild.Community.Tasks.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\obj\Debug\MSBuild.Community.Tasks.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\obj\Debug\MSBuild.Community.Tasks.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\obj\Debug\MSBuild.Community.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\obj\Debug\MSBuild.Community.Tasks.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\obj\Debug\MSBuild.Community.Tasks.dll
+C:\Users\Administrator\Desktop\Build\Source\MSBuild.Community.Tasks\obj\Debug\MSBuild.Community.Tasks.pdb

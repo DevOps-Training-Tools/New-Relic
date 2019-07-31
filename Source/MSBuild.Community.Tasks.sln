@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E57396C8-69C1-45A3-B30A-3EFD0AE03EF6}"
 	ProjectSection(SolutionItems) = preProject
@@ -21,6 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSBuild Scripts", "MSBuild 
 		Sandcastle.proj = Sandcastle.proj
 		Script.proj = Script.proj
 		Services.proj = Services.proj
+		Settings.SourceAnalysis = Settings.SourceAnalysis
 		Sleep.proj = Sleep.proj
 		SourceServer.proj = SourceServer.proj
 		Subversion.proj = Subversion.proj
@@ -75,5 +76,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1291B270-5E1F-425B-ACA1-5253A0067D26} = {FCC5A863-5D5E-4EB9-B3B1-69BBB6655492}
 		{885FC778-671A-4934-B76B-BE28334AD9CB} = {FCC5A863-5D5E-4EB9-B3B1-69BBB6655492}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1945ADC0-4F9E-40EC-B22B-2CA9BBC205A7}
 	EndGlobalSection
 EndGlobal
